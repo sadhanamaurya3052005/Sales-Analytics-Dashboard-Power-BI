@@ -40,5 +40,4 @@ Engineered a dynamic single-page dashboard featuring core executive metrics and 
 1. Download and install **Power BI Desktop**.
 2. Clone this repository or download the `sales_dashboard.pbix` file.
 3. Open `sales_dashboard.pbix` in Power BI Desktop to explore the interactive visual elements.
-4. *(Optional)* For live data connection, update the data source credentials under Power BI settings to link with your local database instance.
-5.
+   
