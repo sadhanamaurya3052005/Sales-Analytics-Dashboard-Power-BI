@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 Developed an automated sales analytics dashboard in Power BI to analyze a comprehensive sales dataset spanning 4 years (2017–2020). The project processes 150,000+ historical transactions, turning raw data into interactive, actionable business insights for stakeholders.
+
 ![Dashboard Image](Power20%BI20%Dashboard20%image.jpg)
 ---
 
